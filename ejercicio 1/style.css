@@ -1,0 +1,15 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+#divUno {
+    padding: 20px;
+}
+
+#divDos {
+    padding: 40px;
+}
